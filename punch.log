@@ -1,0 +1,26 @@
+2026-10-07 10:55:58,446  INFO  Punch in started
+2026-10-07 10:56:02,570  INFO  Logged in
+2026-10-07 10:56:04,969  INFO  Opened attendance menu
+2026-10-07 10:56:05,079  INFO  Punch button text: ''
+2026-10-07 10:56:12,782  INFO  Punch IN done
+2026-10-07 11:01:10,421  INFO  Already punched in today - skipping
+2026-10-07 11:04:37,221  INFO  Punch in started (dry run)
+2026-10-07 11:04:38,489  INFO  Logged in
+2026-10-07 11:04:38,489  INFO  Dry run - not punching
+2026-10-07 11:05:21,608  INFO  Already punched in today - skipping
+2026-10-07 11:05:57,625  INFO  Windows is shutting down - punching out
+2026-10-07 11:05:57,625  INFO  Punch out started
+2026-10-07 11:05:58,937  INFO  Logged in
+2026-10-07 11:05:59,226  INFO  Site record: {'id': 24863, 'date': '07-10-2026', 'punch_in': '10:03', 'punch_out': '11:05', 'count': 4, 'inLatitude': '19.19889285', 'inLongitude': '72.96527044', 'outLatitude': None, 'outLongitude': None, 'inserted_On': '2026-10-07T10:03:15.947511', 'updated_On': '2026-10-07T11:05:57.207182', 'user': 408}
+2026-10-07 11:05:59,235  INFO  Punch OUT done
+2026-10-07 11:06:13,908  INFO  Already punched in today - skipping
+2026-10-07 11:07:57,802  INFO  Punch out started
+2026-10-07 11:07:59,119  INFO  Logged in
+2026-10-07 11:07:59,383  INFO  Site record: {'id': 24863, 'date': '07-10-2026', 'punch_in': '10:03', 'punch_out': '11:07', 'count': 5, 'inLatitude': '19.19889285', 'inLongitude': '72.96527044', 'outLatitude': None, 'outLongitude': None, 'inserted_On': '2026-10-07T10:03:15.947511', 'updated_On': '2026-10-07T11:07:57.389282', 'user': 408}
+2026-10-07 11:07:59,399  INFO  Punch OUT done
+2026-10-07 11:08:04,847  INFO  Windows is shutting down - punching out
+2026-10-07 11:08:04,847  INFO  Punch out started
+2026-10-07 11:08:06,062  INFO  Logged in
+2026-10-07 11:08:06,328  INFO  Site record: {'id': 24863, 'date': '07-10-2026', 'punch_in': '10:03', 'punch_out': '11:08', 'count': 6, 'inLatitude': '19.19889285', 'inLongitude': '72.96527044', 'outLatitude': None, 'outLongitude': None, 'inserted_On': '2026-10-07T10:03:15.947511', 'updated_On': '2026-10-07T11:08:04.325905', 'user': 408}
+2026-10-07 11:08:06,338  INFO  Punch OUT done
+2026-10-07 11:10:41,085  INFO  Already punched in today - skipping
